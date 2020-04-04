@@ -1,0 +1,104 @@
+summary_date,site,co_davg,name,obs_count,units,basin,county_name,state,latitude,longitude 
+2020-01-01,2899,0.538,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-02,2899,0.705,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-03,2899,0.808,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-04,2899,0.916,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-05,2899,0.755,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-06,2899,0.673,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-07,2899,0.593,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-08,2899,0.598,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-09,2899,0.570,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-10,2899,0.690,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-11,2899,0.705,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-12,2899,0.545,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-13,2899,0.595,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-14,2899,0.668,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-15,2899,0.764,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-16,2899,0.553,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-17,2899,0.480,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-18,2899,0.512,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-19,2899,0.609,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-20,2899,0.713,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-21,2899,0.401,Los Angeles-North Main Street,21,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-22,2899,0.565,Los Angeles-North Main Street,23,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-23,2899,0.766,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-24,2899,0.766,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-25,2899,0.893,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-26,2899,0.411,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-27,2899,0.625,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-28,2899,0.627,Los Angeles-North Main Street,20,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-29,2899,0.511,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-30,2899,0.738,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-31,2899,0.879,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-01,2899,0.661,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-02,2899,0.441,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-03,2899,0.236,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-04,2899,0.669,Los Angeles-North Main Street,18,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-05,2899,0.583,Los Angeles-North Main Street,18,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-06,2899,0.640,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-07,2899,0.737,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-08,2899,0.811,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-09,2899,0.326,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-10,2899,0.519,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-11,2899,0.503,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-12,2899,0.590,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-13,2899,0.551,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-14,2899,0.713,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-15,2899,0.686,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-16,2899,0.637,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-17,2899,0.684,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-18,2899,0.512,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-19,2899,0.449,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-20,2899,0.679,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-21,2899,0.461,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-22,2899,0.212,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-23,2899,0.355,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-24,2899,0.592,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-25,2899,0.741,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-26,2899,0.728,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-27,2899,0.686,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-28,2899,0.464,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-29,2899,0.399,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-01,2899,0.208,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-02,2899,0.350,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-03,2899,0.455,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-04,2899,0.497,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-05,2899,0.460,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-06,2899,0.465,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-07,2899,0.189,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-08,2899,0.268,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-09,2899,0.326,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-10,2899,0.218,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-11,2899,0.273,Los Angeles-North Main Street,23,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-13,2899,0.299,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-14,2899,0.286,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-15,2899,0.209,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-16,2899,0.302,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-17,2899,0.364,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-18,2899,0.338,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-19,2899,0.293,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-20,2899,0.230,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-21,2899,0.266,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-22,2899,0.251,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-23,2899,0.201,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-24,2899,0.269,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-25,2899,0.202,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-26,2899,0.263,Los Angeles-North Main Street,22,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-27,2899,0.302,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-28,2899,0.240,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-29,2899,0.286,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-30,2899,0.306,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-04-01,2899,0.284,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-04-02,2899,0.206,Los Angeles-North Main Street,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.06653,-118.22676
+ 
+ Quality Flag Definition 
+0, Valid observation 
+1, The data supplier marked the observation as suspect - but it is still valid 
+2, The automated qa routine judged the observation questionable and invalid 
+3, The automated qa routine judged the observation invalid  
+4, The data supplier flagged the observation invalid  
+5, The observation was flagged invalid manually  
+
+Data extracted from mrgd database: 
+April 3, 2020 at 16:15:44
+  

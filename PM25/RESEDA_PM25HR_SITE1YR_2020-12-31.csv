@@ -1,0 +1,107 @@
+summary_date,site,monitor,pm25_davg,name,obs_count,units,basin,county_name,state,latitude,longitude 
+2020-01-01,2420,-,17.6,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-02,2420,-,6.0,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-03,2420,-,11.7,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-04,2420,-,15.6,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-05,2420,-,9.7,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-06,2420,-,4.5,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-07,2420,-,7.3,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-08,2420,-,7.6,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-09,2420,-,6.5,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-10,2420,-,7.4,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-11,2420,-,13.4,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-12,2420,-,13.1,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-13,2420,-,18.9,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-14,2420,-,18.4,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-15,2420,-,20.7,Reseda,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-16,2420,-,21.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-17,2420,-,7.0,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-18,2420,-,7.8,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-19,2420,-,9.1,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-20,2420,-,15.1,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-21,2420,-,6.4,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-22,2420,-,11.4,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-23,2420,-,8.8,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-24,2420,-,5.8,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-25,2420,-,14.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-26,2420,-,26.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-27,2420,-,3.1,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-28,2420,-,2.1,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-29,2420,-,3.2,Reseda,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-30,2420,-,2.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-01-31,2420,-,3.1,Reseda,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-01,2420,-,8.9,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-02,2420,-,10.7,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-03,2420,-,3.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-04,2420,-,2.7,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-05,2420,-,7.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-06,2420,-,11.1,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-07,2420,-,14.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-08,2420,-,19.7,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-09,2420,-,11.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-10,2420,-,4.3,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-11,2420,-,2.7,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-12,2420,-,9.8,Reseda,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-13,2420,-,10.0,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-14,2420,-,12.6,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-15,2420,-,14.5,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-16,2420,-,15.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-17,2420,-,14.9,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-18,2420,-,17.1,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-19,2420,-,19.9,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-20,2420,-,11.6,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-21,2420,-,10.3,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-22,2420,-,6.4,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-23,2420,-,9.1,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-24,2420,-,9.9,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-25,2420,-,3.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-26,2420,-,4.1,Reseda,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-27,2420,-,5.6,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-28,2420,-,5.3,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-02-29,2420,-,9.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-01,2420,-,7.9,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-02,2420,-,2.4,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-03,2420,-,2.1,Reseda,23,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-04,2420,-,11.4,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-05,2420,-,10.7,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-06,2420,-,12.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-07,2420,-,3.6,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-08,2420,-,2.4,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-09,2420,-,2.8,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-10,2420,-,3.6,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-11,2420,-,4.0,Reseda,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-12,2420,-,5.0,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-13,2420,-,5.1,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-14,2420,-,3.3,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-15,2420,-,3.7,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-16,2420,-,5.5,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-17,2420,-,6.1,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-18,2420,-,6.2,Reseda,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-19,2420,-,6.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-20,2420,-,6.1,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-21,2420,-,5.8,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-22,2420,-,5.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-23,2420,-,3.4,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-24,2420,-,5.6,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-25,2420,-,2.6,Reseda,21,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-26,2420,-,4.3,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-27,2420,-,6.5,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-28,2420,-,10.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-29,2420,-,10.2,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-30,2420,-,6.9,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-03-31,2420,-,5.9,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-04-01,2420,-,10.6,Reseda,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-04-02,2420,-,7.7,Reseda,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999 
+2020-04-03,2420,-,,Reseda,9,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.199199999999998,-118.53274999999999
+ 
+ Quality Flag Definition 
+0, Valid observation 
+1, The data supplier marked the observation as suspect - but it is still valid 
+2, The automated qa routine judged the observation questionable and invalid 
+3, The automated qa routine judged the observation invalid  
+4, The data supplier flagged the observation invalid  
+5, The observation was flagged invalid manually  
+
+Data extracted from mrgd database: 
+April 3, 2020 at 11:11:26
+  

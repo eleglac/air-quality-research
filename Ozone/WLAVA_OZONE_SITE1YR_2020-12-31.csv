@@ -1,0 +1,106 @@
+summary_date,site,ozone_davg,name,obs_count,units,basin,county_name,state,latitude,longitude 
+2020-01-01,2494,0.028,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-02,2494,0.018,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-03,2494,0.015,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-04,2494,0.016,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-05,2494,0.028,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-06,2494,0.031,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-07,2494,0.026,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-08,2494,0.020,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-09,2494,0.031,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-10,2494,0.018,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-11,2494,0.014,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-12,2494,0.025,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-13,2494,0.026,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-14,2494,0.019,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-15,2494,0.018,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-16,2494,0.024,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-17,2494,0.022,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-18,2494,0.035,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-19,2494,0.028,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-20,2494,0.021,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-21,2494,0.025,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-22,2494,0.018,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-23,2494,0.015,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-24,2494,0.014,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-25,2494,0.012,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-26,2494,0.031,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-27,2494,0.025,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-28,2494,0.035,West Los Angeles-VA Hospital,23,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-29,2494,0.035,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-30,2494,0.023,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-01-31,2494,0.016,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-01,2494,0.026,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-02,2494,0.029,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-03,2494,0.037,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-04,2494,0.035,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-05,2494,0.024,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-06,2494,0.021,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-07,2494,0.023,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-08,2494,0.027,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-09,2494,0.034,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-10,2494,0.037,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-11,2494,0.031,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-12,2494,0.020,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-13,2494,0.020,West Los Angeles-VA Hospital,19,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-14,2494,0.019,West Los Angeles-VA Hospital,19,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-15,2494,0.025,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-16,2494,0.028,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-17,2494,0.027,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-18,2494,0.031,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-19,2494,0.032,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-20,2494,0.024,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-21,2494,0.032,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-22,2494,0.034,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-23,2494,0.027,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-24,2494,0.022,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-25,2494,0.019,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-26,2494,0.020,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-27,2494,0.024,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-28,2494,0.025,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-02-29,2494,0.031,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-01,2494,0.040,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-02,2494,0.034,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-03,2494,0.033,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-04,2494,0.022,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-05,2494,0.024,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-06,2494,0.026,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-07,2494,0.036,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-08,2494,0.026,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-09,2494,0.023,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-10,2494,0.022,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-11,2494,0.020,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-12,2494,0.015,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-13,2494,0.023,West Los Angeles-VA Hospital,21,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-14,2494,0.030,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-15,2494,0.031,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-16,2494,0.022,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-17,2494,0.026,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-18,2494,0.031,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-19,2494,0.028,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-20,2494,0.032,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-21,2494,0.029,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-22,2494,0.031,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-23,2494,0.031,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-24,2494,0.027,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-25,2494,0.032,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-26,2494,0.032,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-27,2494,0.034,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-28,2494,0.033,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-29,2494,0.033,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-30,2494,0.027,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-03-31,2494,0.026,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-04-01,2494,0.028,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564 
+2020-04-02,2494,0.034,West Los Angeles-VA Hospital,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.051090000000002,-118.4564
+ 
+ Quality Flag Definition 
+0, Valid observation 
+1, The data supplier marked the observation as suspect - but it is still valid 
+2, The automated qa routine judged the observation questionable and invalid 
+3, The automated qa routine judged the observation invalid  
+4, The data supplier flagged the observation invalid  
+5, The observation was flagged invalid manually  
+
+Data extracted from mrgd database: 
+April 3, 2020 at 11:23:07
+  

@@ -1,0 +1,107 @@
+summary_date,site,monitor,pm25_davg,name,obs_count,units,basin,county_name,state,latitude,longitude 
+2020-01-01,2849,-,9.7,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-02,2849,-,10.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-03,2849,-,6.6,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-04,2849,-,16.2,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-05,2849,-,12.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-06,2849,-,7.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-07,2849,-,5.9,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-08,2849,-,11.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-09,2849,-,9.8,Glendora-Laurel,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-10,2849,-,9.2,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-11,2849,-,10.9,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-12,2849,-,14.0,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-13,2849,-,15.4,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-14,2849,-,21.6,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-15,2849,-,28.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-16,2849,-,20.5,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-17,2849,-,6.4,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-18,2849,-,5.2,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-19,2849,-,6.3,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-20,2849,-,15.6,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-21,2849,-,11.7,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-22,2849,-,12.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-23,2849,-,6.4,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-24,2849,-,10.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-25,2849,-,16.9,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-26,2849,-,36.9,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-27,2849,-,20.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-28,2849,-,6.3,Glendora-Laurel,21,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-29,2849,-,6.7,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-30,2849,-,6.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-31,2849,-,4.4,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-01,2849,-,4.7,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-02,2849,-,8.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-03,2849,-,6.2,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-04,2849,-,7.3,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-05,2849,-,6.9,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-06,2849,-,13.5,Glendora-Laurel,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-07,2849,-,18.7,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-08,2849,-,22.5,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-09,2849,-,11.9,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-10,2849,-,4.0,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-11,2849,-,7.0,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-12,2849,-,8.2,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-13,2849,-,12.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-14,2849,-,14.4,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-15,2849,-,16.4,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-16,2849,-,18.2,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-17,2849,-,20.6,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-18,2849,-,19.8,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-19,2849,-,26.0,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-20,2849,-,9.7,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-21,2849,-,8.7,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-22,2849,-,8.2,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-23,2849,-,13.2,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-24,2849,-,15.8,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-25,2849,-,6.9,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-26,2849,-,6.4,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-27,2849,-,5.0,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-28,2849,-,4.9,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-29,2849,-,8.4,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-01,2849,-,11.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-02,2849,-,6.0,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-03,2849,-,5.9,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-04,2849,-,12.2,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-05,2849,-,15.5,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-06,2849,-,19.0,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-07,2849,-,8.8,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-08,2849,-,6.5,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-09,2849,-,5.3,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-10,2849,-,5.5,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-11,2849,-,6.2,Glendora-Laurel,21,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-12,2849,-,7.4,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-13,2849,-,7.8,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-14,2849,-,7.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-15,2849,-,7.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-16,2849,-,8.8,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-17,2849,-,6.2,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-18,2849,-,5.8,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-19,2849,-,6.7,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-20,2849,-,5.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-21,2849,-,7.7,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-22,2849,-,5.9,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-23,2849,-,5.2,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-24,2849,-,6.4,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-25,2849,-,5.7,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-26,2849,-,6.0,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-27,2849,-,6.7,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-28,2849,-,7.8,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-29,2849,-,10.1,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-30,2849,-,9.6,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-31,2849,-,11.5,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-04-01,2849,-,13.2,Glendora-Laurel,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-04-02,2849,-,12.0,Glendora-Laurel,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-04-03,2849,-,,Glendora-Laurel,9,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.144370000000002,-117.85038
+ 
+ Quality Flag Definition 
+0, Valid observation 
+1, The data supplier marked the observation as suspect - but it is still valid 
+2, The automated qa routine judged the observation questionable and invalid 
+3, The automated qa routine judged the observation invalid  
+4, The data supplier flagged the observation invalid  
+5, The observation was flagged invalid manually  
+
+Data extracted from mrgd database: 
+April 3, 2020 at 11:07:10
+  

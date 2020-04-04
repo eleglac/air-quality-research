@@ -1,0 +1,105 @@
+summary_date,site,nox_davg,name,obs_count,units,basin,county_name,state,latitude,longitude 
+2020-01-01,2849,0.007,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-02,2849,0.010,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-03,2849,0.009,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-04,2849,0.018,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-05,2849,0.010,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-06,2849,0.008,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-07,2849,0.017,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-08,2849,0.016,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-09,2849,0.008,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-10,2849,0.018,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-11,2849,0.010,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-12,2849,0.006,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-13,2849,0.009,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-14,2849,0.015,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-15,2849,0.018,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-16,2849,0.011,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-17,2849,0.006,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-18,2849,0.006,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-19,2849,0.008,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-20,2849,0.027,Glendora-Laurel,23,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-21,2849,0.012,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-22,2849,0.009,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-23,2849,0.008,Glendora-Laurel,21,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-24,2849,0.020,Glendora-Laurel,22,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-25,2849,0.019,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-26,2849,0.014,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-27,2849,0.010,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-28,2849,0.012,Glendora-Laurel,21,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-29,2849,0.007,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-30,2849,0.010,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-01-31,2849,0.008,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-01,2849,0.005,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-02,2849,0.005,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-03,2849,0.001,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-04,2849,0.008,Glendora-Laurel,23,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-05,2849,0.011,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-06,2849,0.018,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-07,2849,0.024,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-08,2849,0.019,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-09,2849,0.004,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-10,2849,0.002,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-11,2849,0.012,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-12,2849,0.010,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-13,2849,0.014,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-14,2849,0.017,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-15,2849,0.012,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-16,2849,0.010,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-17,2849,0.013,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-18,2849,0.018,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-19,2849,0.014,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-20,2849,0.009,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-21,2849,0.008,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-22,2849,0.004,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-23,2849,0.006,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-24,2849,0.011,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-25,2849,0.007,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-26,2849,0.007,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-27,2849,0.008,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-28,2849,0.008,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-02-29,2849,0.008,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-01,2849,0.003,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-02,2849,0.002,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-03,2849,0.009,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-04,2849,0.013,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-05,2849,0.017,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-06,2849,0.020,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-07,2849,0.005,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-08,2849,0.004,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-09,2849,0.006,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-10,2849,0.005,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-11,2849,0.006,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-12,2849,0.009,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-13,2849,0.005,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-14,2849,0.004,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-15,2849,0.003,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-16,2849,0.005,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-17,2849,0.005,Glendora-Laurel,20,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-18,2849,0.006,Glendora-Laurel,20,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-19,2849,0.005,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-20,2849,0.004,Glendora-Laurel,23,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-21,2849,0.005,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-22,2849,0.003,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-23,2849,0.004,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-24,2849,0.004,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-25,2849,0.004,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-26,2849,0.004,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-27,2849,0.005,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-28,2849,0.004,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-29,2849,0.004,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-03-30,2849,0.006,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-04-01,2849,0.009,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038 
+2020-04-02,2849,0.004,Glendora-Laurel,24,Parts Per Million ( ppm ),SC ,Los Angeles,CA,34.144370000000002,-117.85038
+ 
+ Quality Flag Definition 
+0, Valid observation 
+1, The data supplier marked the observation as suspect - but it is still valid 
+2, The automated qa routine judged the observation questionable and invalid 
+3, The automated qa routine judged the observation invalid  
+4, The data supplier flagged the observation invalid  
+5, The observation was flagged invalid manually  
+
+Data extracted from mrgd database: 
+April 3, 2020 at 11:17:35
+  

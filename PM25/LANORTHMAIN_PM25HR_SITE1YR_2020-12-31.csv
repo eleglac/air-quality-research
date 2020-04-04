@@ -1,0 +1,107 @@
+summary_date,site,monitor,pm25_davg,name,obs_count,units,basin,county_name,state,latitude,longitude 
+2020-01-01,2899,-,18.7,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-02,2899,-,18.7,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-03,2899,-,14.7,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-04,2899,-,20.8,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-05,2899,-,17.0,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-06,2899,-,9.6,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-07,2899,-,7.0,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-08,2899,-,13.1,Los Angeles-North Main Street,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-09,2899,-,11.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-10,2899,-,12.5,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-11,2899,-,14.7,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-12,2899,-,16.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-13,2899,-,17.5,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-14,2899,-,17.6,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-15,2899,-,27.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-16,2899,-,22.2,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-17,2899,-,7.9,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-18,2899,-,7.7,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-19,2899,-,8.8,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-20,2899,-,17.0,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-21,2899,-,9.8,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-22,2899,-,12.5,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-23,2899,-,12.8,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-24,2899,-,14.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-25,2899,-,29.0,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-26,2899,-,38.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-27,2899,-,21.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-28,2899,-,8.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-29,2899,-,8.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-30,2899,-,9.0,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-01-31,2899,-,10.0,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-01,2899,-,8.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-02,2899,-,12.1,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-03,2899,-,3.8,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-04,2899,-,7.5,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-05,2899,-,6.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-06,2899,-,11.5,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-07,2899,-,16.1,Los Angeles-North Main Street,21,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-08,2899,-,21.5,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-09,2899,-,12.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-10,2899,-,8.4,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-11,2899,-,8.6,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-12,2899,-,11.4,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-13,2899,-,15.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-14,2899,-,18.1,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-15,2899,-,18.8,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-16,2899,-,18.2,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-17,2899,-,21.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-18,2899,-,22.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-19,2899,-,24.2,Los Angeles-North Main Street,23,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-20,2899,-,19.5,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-21,2899,-,11.8,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-22,2899,-,7.5,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-23,2899,-,10.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-24,2899,-,15.8,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-25,2899,-,13.1,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-26,2899,-,10.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-27,2899,-,8.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-28,2899,-,6.8,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-02-29,2899,-,11.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-01,2899,-,8.9,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-02,2899,-,6.1,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-03,2899,-,8.2,Los Angeles-North Main Street,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-04,2899,-,15.8,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-05,2899,-,18.8,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-06,2899,-,18.5,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-07,2899,-,5.9,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-08,2899,-,4.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-09,2899,-,6.1,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-10,2899,-,5.6,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-11,2899,-,6.0,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-12,2899,-,8.4,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-13,2899,-,7.2,Los Angeles-North Main Street,22,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-14,2899,-,7.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-15,2899,-,5.2,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-16,2899,-,6.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-17,2899,-,5.3,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-18,2899,-,6.1,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-19,2899,-,5.1,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-20,2899,-,4.6,Los Angeles-North Main Street,20,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-21,2899,-,5.4,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-22,2899,-,4.4,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-23,2899,-,3.6,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-24,2899,-,4.8,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-25,2899,-,3.4,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-26,2899,-,4.2,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-27,2899,-,6.5,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-28,2899,-,7.2,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-29,2899,-,9.1,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-30,2899,-,8.4,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-03-31,2899,-,9.7,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-04-01,2899,-,12.6,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-04-02,2899,-,10.6,Los Angeles-North Main Street,24,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676 
+2020-04-03,2899,-,,Los Angeles-North Main Street,8,Micrograms/Cubic Meter ( ug/m<sup>3</sup> ),SC ,Los Angeles,CA,34.06653,-118.22676
+ 
+ Quality Flag Definition 
+0, Valid observation 
+1, The data supplier marked the observation as suspect - but it is still valid 
+2, The automated qa routine judged the observation questionable and invalid 
+3, The automated qa routine judged the observation invalid  
+4, The data supplier flagged the observation invalid  
+5, The observation was flagged invalid manually  
+
+Data extracted from mrgd database: 
+April 3, 2020 at 11:10:16
+  
